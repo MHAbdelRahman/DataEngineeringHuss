@@ -1,0 +1,13 @@
+name: dataEngineeringTask
+channels:
+  - defaults
+  - pip
+dependencies:
+  - python=3.8.2
+  - flask=2.0.3
+  - Flask-RESTful=0.3.9
+  - pymongo=4.0.2
+  - dnspython=2.2.1
+  - pyspark=3.2.1
+  - requests=2.27.1
+  - pip
